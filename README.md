@@ -51,27 +51,7 @@
 
 -----
 
-<br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<p align="center">
-    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=Niefee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-</p>
-<br>
-
-
-<div align='center'>
-
-<br>
-
-
------
-
-
-<br>
 
 Credit: [Martin Caviedes](https://github.com/MartinCaviedes)
 
